@@ -1,3 +1,3 @@
-module golang-grud-api
+module golang-crud-api
 
 go 1.18
